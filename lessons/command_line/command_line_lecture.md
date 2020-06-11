@@ -69,6 +69,7 @@ This "changes directory" and makes the named directory our new working
 directory. 
 
 > Question: How could we make sure that we moved?
+> pwd. It will show our current location ending in test_directory.
 
 Let's get a few special things out of the way as well for command line. When
 we talk about folders, we don't always want to move "into" the next folder
@@ -119,6 +120,7 @@ Now nothing shows up on the screen. List the files and see if you can tell
 why.
 
 > Hint: we learned how to list all the files up above.
+> echo will create a new file in which to output the text if provided a name following a > at the end of the command.
 
 The greater than says, "put that output into the following file instead."
 
