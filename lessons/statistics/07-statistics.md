@@ -93,7 +93,7 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Both are approaches to inferential statistics and are used to deduce properties of a population from a smaller sample. Frequentist statistics is focused more narrowly on probabilities pertaining to repeatable events, such as a coin flip, which can ideally approach a defined answer as observations increase. Bayesian statistics is somewhat more flexible and subjective and is used to assign probabilities to novel occurrences by considering relevant factors and adjusting a model.
 
 ---
 
